@@ -20,3 +20,6 @@ button{
 	background: #FFEBCF;
 	padding:12px;
 }
+option::selection{
+	background-color:green;
+}
