@@ -1,0 +1,22 @@
+.first{
+	background: #FFB3D0;
+}
+.scores{
+}
+.imagen-box{
+	background: #5995DD;
+	width:250px;
+	height:250px;
+	margin:12px;
+}
+.editor{
+	margin-top: 12px;
+}
+button{
+	display:block;
+	margin-top:12px;
+}
+.contenedor{
+	background: #FFEBCF;
+	padding:12px;
+}
