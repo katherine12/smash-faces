@@ -4,7 +4,9 @@
 .scores{
 }
 .imagen-box{
-	background: #5995DD;
+	/*background: #5995DD;*/
+	background-size: contain;
+	background-repeat: no-repeat;
 	width:250px;
 	height:250px;
 	margin:12px;
